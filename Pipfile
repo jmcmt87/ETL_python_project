@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 pandas = "*"
 pendulum = "*"
+pre-commit = "*"
+pytest = "*"
+flake8 = "*"
+black = "*"
+click = "==8.0.2"
 
 [dev-packages]
 
